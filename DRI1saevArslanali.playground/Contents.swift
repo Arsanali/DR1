@@ -50,4 +50,4 @@ func calculateSumm(summ: Double , precent: Double , year: Int = 5) {
     
 }
 calculateSumm(summ: 3000, precent: 2.5)
-
+   
